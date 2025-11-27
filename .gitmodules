@@ -1,8 +1,8 @@
 [submodule "frontend"]
-	path = frontend
+	path = laohaldussusteem.client
 	url = https://github.com/FantomTchi7/Laohaldussusteem-Frontend
 	branch = main
 [submodule "backend"]
-	path = backend
+	path = Laohaldussusteem.Server
 	url = https://github.com/FantomTchi7/Laohaldussusteem-Backend
 	branch = main
